@@ -1,5 +1,5 @@
 # Tecnologias
 
 
-## Ruby
-https://github.com/labsdev-Training/ruby.git
+## Ruby & Rails
+https://github.com/labsdev-Training/contactlist.git
