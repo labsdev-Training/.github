@@ -12,12 +12,5 @@
 
 ## JAVA
 
-  
-
-#### Selenium WebDriver + Java!
-
-  
-
- - https://github.com/labsdev-Training/labsSeleniumWebDriverJava
- 
+ * https://github.com/rosedias/stack-plugin-javaweb.git
 
