@@ -12,6 +12,6 @@
 
 ## JAVA
 
- * https://github.com/rosedias/stack-plugin-javaweb.git
- * https://github.com/labsdev-Training/automation-javaweb.git
+ * https://github.com/rosedias/stack-plugin-javaweb.git        - Plugin Starter Web      
+ * https://github.com/labsdev-Training/automation-javaweb.git  - Projeto de Automação java Web (Selenium + Selenide)
 
